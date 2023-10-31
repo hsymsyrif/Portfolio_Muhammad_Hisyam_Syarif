@@ -65,4 +65,4 @@ sr.reveal(".profile__buttons", { delay: 800 });
 sr.reveal(".filters__content", { delay: 900 });
 sr.reveal(".filters", { delay: 1000 });
 sr.reveal(".ri-moon-line", { delay: 300 });
-sr.reveal(".toggle-up", { delay: 200 });
+sr.reveal(".toggle-up", { delay: 300 });
